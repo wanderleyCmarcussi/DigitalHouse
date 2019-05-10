@@ -15,6 +15,7 @@
 		1309CB8C2284E77F00C865FD /* ProjetoNovoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1309CB8B2284E77F00C865FD /* ProjetoNovoTests.swift */; };
 		1309CB972284E77F00C865FD /* ProjetoNovoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1309CB962284E77F00C865FD /* ProjetoNovoUITests.swift */; };
 		1309CBA52284FBBE00C865FD /* Pessoa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1309CBA42284FBBE00C865FD /* Pessoa.swift */; };
+		1309CBA72284FD7900C865FD /* Casa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1309CBA62284FD7900C865FD /* Casa.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1309CB962284E77F00C865FD /* ProjetoNovoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjetoNovoUITests.swift; sourceTree = "<group>"; };
 		1309CB982284E77F00C865FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1309CBA42284FBBE00C865FD /* Pessoa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pessoa.swift; sourceTree = "<group>"; };
+		1309CBA62284FD7900C865FD /* Casa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Casa.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				1309CB782284E77E00C865FD /* ViewController.swift */,
 				1309CB7A2284E77E00C865FD /* Main.storyboard */,
 				1309CBA42284FBBE00C865FD /* Pessoa.swift */,
+				1309CBA62284FD7900C865FD /* Casa.swift */,
 				1309CB7D2284E77F00C865FD /* Assets.xcassets */,
 				1309CB7F2284E77F00C865FD /* LaunchScreen.storyboard */,
 				1309CB822284E77F00C865FD /* Info.plist */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1309CB792284E77E00C865FD /* ViewController.swift in Sources */,
+				1309CBA72284FD7900C865FD /* Casa.swift in Sources */,
 				1309CBA52284FBBE00C865FD /* Pessoa.swift in Sources */,
 				1309CB772284E77E00C865FD /* AppDelegate.swift in Sources */,
 			);
