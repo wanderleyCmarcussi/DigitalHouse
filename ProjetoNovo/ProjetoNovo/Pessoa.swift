@@ -7,3 +7,7 @@
 //
 
 import Foundation
+
+class Pessoa {
+    var nome: string = "Marcussi"
+}
