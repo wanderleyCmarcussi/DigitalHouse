@@ -9,5 +9,9 @@
 import Foundation
 
 class Pessoa {
-    var nome: string = "Marcussi"
+    var nome: String = "Marcussi"
+}
+
+func criaNome () -> String {
+    return nome
 }
